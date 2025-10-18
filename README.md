@@ -9,7 +9,7 @@
 - JS
 
 ## 🚀 Link 
-- <a href="https://phonbooth.com">Phonbooth.com</a>
+- <a href="https://luft-phon.github.io/photobooth-application/">Phonbooth.com</a>
 
 ## Starting Page
 <img src="https://github.com/Luft-phon/PhotoBooth-Application/blob/main/photos/starting.jpg">
